@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on [my Kotlin Learning Journey](https://github.com/Yassineelg/Kotlin-Learning-Journey)
+- 🎯 I am currently looking for an internship in software development.
 
 - 🌱 I’m currently mastering **Java, Kotlin, Python, and more. Focused on advanced algorithms and microservices. Embracing new challenges in tech.**
 
