@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/zMnKRAg2bfqX2TvIHI/giphy.gif" width="100"/>
 </div>
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/yassine-el-gherrabi-57121b1a0/">
+  <a href="https://www.linkedin.com/in/yassine-el-gherrabi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/yasscalv/">
+  <a href="https://www.instagram.com/yasseelg/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/Yasseelg">
